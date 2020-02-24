@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushNotificationsSdk</string>
+    <string name="channel_default">default_channel</string>
+
+</resources>
